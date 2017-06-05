@@ -1,3 +1,3 @@
-# hello-world-
+# hello-world
 Initial repo
-First use og GitHub
+First use of GitHub
